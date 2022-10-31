@@ -8,10 +8,31 @@
 		{
 			"version": "2019-10-24",
 			"connections": {},
-			"resources": {},
+			"resources": {
+				"Dd01": {
+					"type": "resource.compute.function",
+					"name": "dd",
+					"memory": 512,
+					"timeout": 6,
+					"entryPoint": "functions/dd.handler",
+					"runtime": "nodejs12.x",
+					"packageType": "zip",
+					"layers": [],
+					"environment": {
+						"variables": {}
+					},
+					"id": "Dd01"
+				}
+			},
 			"metadata": {
 				"designer": {
-					"resourcePositions": {}
+					"resourcePositions": {
+						"Dd01": {
+							"x": 908.8071193313646,
+							"y": 451.95774147409156,
+							"z": 0
+						}
+					}
 				}
 			},
 			"id": "cl9wol66p00008xsc63fsbpvk",

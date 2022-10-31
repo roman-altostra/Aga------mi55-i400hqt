@@ -1,0 +1,22 @@
+{
+	"id": "cl9wol66p00008xsc63fsbpvk",
+	"name": "Agaвывысыmi55-i400hqt",
+	"type": "altostra",
+	"description": "An empty project template",
+	"created": "2022-10-31T11:11:43.250Z",
+	"blueprints": [
+		{
+			"version": "2019-10-24",
+			"connections": {},
+			"resources": {},
+			"metadata": {
+				"designer": {
+					"resourcePositions": {}
+				}
+			},
+			"id": "cl9wol66p00008xsc63fsbpvk",
+			"name": "Agaвывысыmi55-i400hqt",
+			"unsafe": false
+		}
+	]
+}
